@@ -2,14 +2,14 @@
 
 # GUI berbasis Python menggunakan Streamlit
 
-**Nama** : Ni Made Gita Pramudyacwari
-**NIM**  : 250030730
+# Nama : Ni Made Gita Pramudyacwari
+# NIM  : 250030730
 
 Deskripsi:
 - Point Operation yang dibuat : Brightness, Contrast 
 - Filter Convolution yang dibuat : Blur, Sharpen, Edge Detection, Embossing Filters
 
-## Menjalankan Program
+# Menjalankan Program
 - Buka repository GitHub di browser
 - Klik tombol Code
 - Pilih Download ZIP
