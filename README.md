@@ -7,7 +7,7 @@ NIM  : 250030730
 
 Deskripsi:
 - Point Operation yang dibuat : Brightness, Contrast 
-- Filter Convolution yang dibuat : Blur, Sharpen, Edge Detection, Embossing Filters
+- Filter Convolution yang dibuat : Blur, Sharpen, Edge Detection
 
 # Menjalankan Program
 - Buka repository GitHub di browser
