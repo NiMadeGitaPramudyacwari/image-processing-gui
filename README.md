@@ -2,8 +2,8 @@
 
 # GUI berbasis Python menggunakan Streamlit
 
-# Nama : Ni Made Gita Pramudyacwari
-# NIM  : 250030730
+Nama : Ni Made Gita Pramudyacwari
+NIM  : 250030730
 
 Deskripsi:
 - Point Operation yang dibuat : Brightness, Contrast 
