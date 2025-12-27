@@ -1,13 +1,31 @@
 # image-processing-gui
 
-GUI berbasis Python menggunakan Streamlit untuk:
-- Point Operation (Brightness, Contrast, Negative/Inversion, Thresholding, & Gamma Correction)
-- Filter Convolution (Blur, Sharpen, Edge Detection, Embossing Filters, Custom Convolution Filter)
+# GUI berbasis Python menggunakan Streamlit
+
+**Nama** : Ni Made Gita Pramudyacwari
+**NIM**  : 250030730
+
+Deskripsi:
+- Point Operation yang dibuat : Brightness, Contrast 
+- Filter Convolution yang dibuat : Blur, Sharpen, Edge Detection, Embossing Filters
 
 ## Menjalankan Program
+- Buka repository GitHub di browser
+- Klik tombol Code
+- Pilih Download ZIP
+- Extract ZIP ke folder (misal: Documents)
+- Struktur folder setelah extract untuk mejalankan aplikasi GUI Python menggunakan Streamlit:
+```bash
+image-processing-gui-python/
+├── app.py
+├── requirements.txt
+└── README.md
+```
+# Setelah itu bisa langsung lanjut ke:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 # MATLAB GUI App - Image Processing
 
