@@ -1,4 +1,4 @@
-# image-processing-gui
+# Image Processing GUI
 
 # GUI berbasis Python menggunakan Streamlit
 
