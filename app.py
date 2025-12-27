@@ -19,16 +19,17 @@ if uploaded_file:
     col1.subheader("Input Image")
     col1.image(img, use_container_width=True)
 
+    # Point Operation
     st.sidebar.header("Point Operation")
 
     brightness = st.sidebar.slider("Brightness", -100, 100, 0)
     contrast = st.sidebar.slider("Contrast", 0.5, 3.0, 1.0)
 
-    # Point Operation
     img_point = img.astype(np.float32)
     img_point = (img_point - 128) * contrast + 128 + brightness
     img_point = np.clip(img_point, 0, 255).astype(np.uint8)
 
+    # Filter (Convolution)
     st.sidebar.header("Filter (Convolution)")
     filter_type = st.sidebar.selectbox(
         "Choose Filter",
