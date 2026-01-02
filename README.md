@@ -53,7 +53,7 @@ Deskripsi:
 - Klik tombol Code
 - Pilih Download ZIP
 - Extract ZIP ke folder (misal: Documents)
-- Struktur folder setelah extract untuk mejalankan aplikasi GUI Python menggunakan Streamlit:
+- Struktur folder setelah extract untuk mejalankan aplikasi GUI Python menggunakan Streamlit :
 ```bash
 image-processing-gui-python/
 ├── app.py
@@ -69,7 +69,7 @@ streamlit run NegativeApp.py
 - Setelah aplikasi berjalan, halaman GUI Streamlit akan ditampilkan pada browser.
 - Unggah file gambar dengan format JPG, JPEG, atau PNG.
 - Citra input akan ditampilkan pada sisi kiri layar.
-- Pilih jenis Point Operation melalui menu sidebar:
+- Pilih jenis Point Operation melalui menu sidebar :
   - Grayscale Complement
   - Binary Complement
   - Negative / Inversion
@@ -80,7 +80,7 @@ streamlit run NegativeApp.py
 - Setelah aplikasi berjalan, halaman GUI Streamlit akan ditampilkan pada browser.
 - Unggah file gambar dengan format JPG, JPEG, atau PNG.
 - Citra input akan ditampilkan pada sisi kiri layar.
-- Pilih jenis Point Operation melalui menu sidebar:
+- Pilih jenis Point Operation melalui menu sidebar :
   - 128
   - 255
 - Hasil pengolahan citra akan langsung ditampilkan pada sisi kanan layar sebagai output image.
@@ -90,7 +90,7 @@ streamlit run NegativeApp.py
 - Setelah aplikasi berjalan, halaman GUI Streamlit akan ditampilkan pada browser.
 - Unggah file gambar dengan format JPG, JPEG, atau PNG.
 - Citra input akan ditampilkan pada sisi kiri layar.
-- Pilih jenis Filter (Convolution) melalui menu sidebar:
+- Pilih jenis Filter (Convolution) melalui menu sidebar :
   - Apply Embossing
 - Hasil pengolahan citra akan langsung ditampilkan pada sisi kanan layar sebagai output image.
 - Pengguna dapat mengganti jenis operasi untuk melihat perbedaan hasil gambar.
