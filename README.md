@@ -29,7 +29,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-# Menjalankan Hasil Output Program Image Negative/Inversion GUI
+# Menjalankan Hasil Output Program 
 - Setelah aplikasi berjalan, halaman GUI Streamlit akan ditampilkan pada browser.
 - Unggah file gambar dengan format JPG, JPEG, atau PNG.
 - Citra input akan ditampilkan pada sisi kiri layar (Image Before).
