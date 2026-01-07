@@ -2,12 +2,10 @@
 
 # GUI berbasis Python menggunakan Streamlit
 
-Nama : Ni Made Gita Pramudyacwari
-NIM  : 250030730
-
-Nama : Ni Nyoman Januar Ari Setiawati
-NIM  : 230030249
-
+# Nama Kelompok: 
+1. Ni Made Gita Pramudyacwari (250030730)
+2. Ni Nyoman Januar Ari Setiawati (230030249)
+   
 Deskripsi:
 - Point Operation yang dibuat : Brightness, Contrast, Gamma Value (γ), Grayscale, Binary, Negative/Inversion
 - Point Operation Thresholding   : Konversi Grayscale dan Binary Thresholding (T = 128 dan T = 255)
