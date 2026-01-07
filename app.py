@@ -22,7 +22,7 @@ for key, value in default_state.items():
     if key not in st.session_state:
         st.session_state[key] = value
 
-# Upload image
+# Upload Image
 uploaded_file = st.file_uploader("Upload Image", type=["jpg", "png", "jpeg"])
 
 if uploaded_file:
@@ -141,6 +141,6 @@ if uploaded_file:
             output = cv2.filter2D(output, -1, kernels[st.session_state.filter])
 
 
-    #Output Image
+    # Output Image
     col2.subheader("Image After")
     col2.image(output, use_container_width=True)
